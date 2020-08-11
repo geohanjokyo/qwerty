@@ -1,5 +1,0 @@
-train: ./train/images
-val: ./valid/images
-
-nc: 132
-names: ['dog', 'person', 'cat', 'tv', 'car', 'meatballs', 'marinara sauce', 'tomato soup', 'chicken noodle soup', 'french onion soup', 'chicken breast', 'ribs', 'pulled pork', 'hamburger', 'cavity', 'screen_cert', 'vrkbd_cert', 'confirm', 'cancle', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', 'q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p', 'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l', 'shift', 'z', 'x', 'c', 'v', 'b', 'n', 'm', 'bs', 'sc', 'eng', 'space', 'refresh', 'close', 'refresh', 'cloase', 'account_list', 'transfer', 'bank_list', 'vrkbd_numpad', 'extransfer_popup', 'transfer_secretcode', 'vrkbd_secretcode', '!', '@', '#', '$', '%', '^', '&', '*', '(', ')', 'Q', 'W', 'E', 'R', 'T', 'Y', 'U', 'I', 'O', 'P', 'A', 'S', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'Z', 'X', 'C', 'V', 'B', 'N', 'M', '-', '=', '+', '{', '}', '[', ']', '\', ':', ';', 'qoute_large', 'qoute_small', '<', '>', ',', '.', '/', '?', '|', 'shift', '~', '`', '_', 'transfer_complete', 'saving']
