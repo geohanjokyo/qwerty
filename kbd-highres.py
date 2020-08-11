@@ -11,8 +11,6 @@ from selenium.common.exceptions import NoSuchElementException
 from appium.webdriver.common.touch_action import TouchAction
 import time, datetime
 import cv2
-import subprocess
-import detect
 
 # 오브젝트 딕셔너리
 qwerty_dic = {"cancle": "0", "confirm": "1", "1": "2", "2": "3", "3": "4", "4": "5", "5": "6", "6": "7",
