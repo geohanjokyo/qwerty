@@ -65,7 +65,7 @@ class kbdtest_highres(unittest.TestCase):
         # 인증서 비밀번호 입력
 
         # 인증서 암호 입력
-        cert_pass = "!Q2w3e4r5t"  # 인증서 비빌번호
+        cert_pass = ""  # 인증서 비빌번호
         cert_list = []  # 빈 리스트 선언
         # 비밀번호 인덱싱 하여 리스트 선언
         for i in range(len(cert_pass)):
