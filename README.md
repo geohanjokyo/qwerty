@@ -14,10 +14,10 @@ https://youtu.be/Dn19RQ6Loqw
 -	python 3.7
 - Appium v1.17.1
 - apache-ant-1.10.8
--	H/W : macbook pro 13.3(2018)
-        LG V50
-        AVerMedia LIVE GAMER PORTABLE2(영상 캡쳐 장비)
-        Coms ST045 미라캐스트 동글
+-	H/W : macbook pro 13.3(2018)   
+        LG V50   
+        AVerMedia LIVE GAMER PORTABLE2(영상 캡쳐 장비)   
+        Coms ST045 미라캐스트 동글   
 
    
    
